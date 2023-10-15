@@ -179,6 +179,10 @@ ol {
     background-color: #2e2f42;
 }
 
+.logo {
+    color: #f4f4fd;
+}
+
 .footer-text {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
