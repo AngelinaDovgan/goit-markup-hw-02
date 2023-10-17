@@ -64,6 +64,7 @@ ul, ol, a {
     text-align: center;
     color: #FFFFFF;
     background-color: #2E2F42;
+    letter-spacing: 0.02em;
 }
 
 .button {
@@ -73,6 +74,7 @@ ul, ol, a {
     font-weight: 500;
     letter-spacing: 0.04em;
     cursor: pointer;
+    line-height: 1.5;
 }
 
 .button:hover,
@@ -86,6 +88,7 @@ ul, ol, a {
     font-size: 20px;
     line-height: 1.2;
     color: #2E2F42;
+    letter-spacing: 0.02em;
 }
 
 .benefits-text {
@@ -101,6 +104,7 @@ ul, ol, a {
     line-height: 1.11;
     text-align: center;
     color: #2E2F42;
+    letter-spacing: 0.02em;
 }
 
 .our-team {
@@ -137,6 +141,7 @@ ul, ol, a {
     text-align: center;
     color: #2E2F42;
     text-transform: capitalize;
+    letter-spacing: 0.02em;
 }
 
 .portfolio-title {
@@ -145,6 +150,7 @@ ul, ol, a {
     font-size: 20px;
     line-height: 1.2;
     color: #2E2F42;
+    letter-spacing: 0.02em;
 }
 
 .portfolio-text {
